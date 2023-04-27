@@ -1,10 +1,16 @@
 # Loxone Stats Logging into InfluxDB
 This program can log stats from Loxone into InfluxDB coded in Node.js.
 <hr>
-**How to download this project**
-gh repo clone astrixgame/log-loxone-influx</sub>
+<h2>How to download this project</h2>
+
+```cmd
+gh repo clone astrixgame/log-loxone-influx
+```
 <hr>
-**How to install libraries**
-<sub>npm i request</sub>
-<sub>npm i fs</sub>
-<sub>npm i lxcommunicator</sub>
+<h2>How to install libraries</h2>
+
+```cmd
+npm i request
+npm i fs
+npm i lxcommunicator
+```
